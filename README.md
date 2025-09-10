@@ -1,2 +1,0 @@
-# Ssg
-Portal
